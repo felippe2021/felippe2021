@@ -1,5 +1,5 @@
 ## olá! Eu sou Felippe Gonçalves
-Hoje eu trabalho atualmente com Estagio de Suporte (Banco de Dados e Desenvolvimento em C#).
+Hoje eu trabalho atualmente com Estágio de Suporte (Banco de Dados e Desenvolvimento em C#).
 
 Estudando Analise e Desenvolvimento de Sistema. 
 
